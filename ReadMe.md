@@ -1,3 +1,7 @@
+#Количество копирований - 2
+#Количество веток - 1
+#Количество разработчиков - 1
+#Регулярность использования - 70
 # gs-scrambler
 
 Streaming audio steganography algorithm developed as the graduation project in Applied Mathematics at Moscow State Technical University of Radio Engineering, Electronics and Automation.
